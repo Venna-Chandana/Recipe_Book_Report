@@ -1,2 +1,2 @@
 # Recipe_Book_Report
-It is a console based application developed using Java.
+A console-based Java application that allows users to browse categorized recipes, select food items, and generate a detailed bill with automatic discounts. The system includes login authentication, input validation, and file handling to store selected recipes. It demonstrates key Java concepts such as object-oriented programming, data structures, exception handling, and file I/O. The project simulates a digital restaurant menu system and serves as a practical learning model for beginners in Java development.
